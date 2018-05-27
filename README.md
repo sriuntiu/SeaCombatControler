@@ -1,2 +1,2 @@
-# SeaCombatCotroler
+# SeaCombatControler
 Создание генератора расстановки кораблей для игры "Морской бой"
